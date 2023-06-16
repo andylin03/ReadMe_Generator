@@ -7,7 +7,16 @@ Every good project needs a quality README with information about the app - what 
 
 This is a command-line application that runs with Node.js that dynamically generates a README.md file based on input about your project.
 
-# Installion 
+# Screenshot
+
+
+<img width="995" alt="Screenshot 2023-06-16 at 10 38 33 AM" src="https://github.com/andylin03/ReadMe_Generator/assets/126199540/badf9e36-6f99-4b2e-8d3a-bdabe40d8d5a">
+
+
+
+
+
+# Installation 
 To generate your own README, git clone the repo down to your local so you have the Node project on your local.
 
 Run npm i inquirer@8.2.4 in order to install the following npm package dependencies as specified in the package.json:
